@@ -1,0 +1,11 @@
+{
+	"name": "generic-zod-object-field",
+	"version": "1.0.0",
+	"repository": "git@github.com:bkiac/generic-zod-object-field.git",
+	"author": "bkiac <bkiac@pm.me>",
+	"license": "MIT",
+	"dependencies": {
+		"typescript": "^4.8.3",
+		"zod": "^3.19.1"
+	}
+}
